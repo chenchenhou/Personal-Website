@@ -5,7 +5,7 @@ Welcome to the code repository for my personal website! This repository contains
 ## **Technology Used**
 
 1. This project is mainly based on HTML, CSS, and JavaScript.
-2. Modified from HTML 5UP template [TWENTY](https://html5up.net/twenty).
+2. Modified from HTML 5UP template <a href="https://html5up.net/twenty" target="_blank">TWENTY</a>.
 
 ## **Structure**
 
